@@ -37,4 +37,4 @@ fetch("https://fakestoreapi.com/products")
 // myPromise.then((msg) => console.log(msg))
 //     .catch((error) => console.log("Some error occured", error));
 
-// console.log(myPromise);
+// console.log(myPromise);// Promise {<pending>}
